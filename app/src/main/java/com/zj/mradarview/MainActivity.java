@@ -3,6 +3,8 @@ package com.zj.mradarview;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.zj.library.MRadarView;
+
 import java.util.ArrayList;
 import java.util.List;
 
